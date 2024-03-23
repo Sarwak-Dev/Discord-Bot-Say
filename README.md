@@ -4,7 +4,7 @@
 ## Run command bot
  #### In the index.js console put this command
 ```bash
-node index.js
+npm run dev
 ```
 ## Commands:
 ```bash
@@ -36,3 +36,4 @@ node index.js
 ## License
 
 #### MIT License
+
