@@ -7,7 +7,7 @@
 node index.js
 ```
 ## Commands:
-```python
+```bash
 .say yourtext
 .say [id_channel_to_send_message] yourtext 
 # To fix the line breaks bu, each dot (.) means a line space.
@@ -27,7 +27,7 @@ node index.js
 #### You can use free hosting at `https://discloudbot.com` is completly free
 
 ## My links
-```python
+```c
 [1]: "https://discord.com/developers/applications" Discord Developer Portal to get the token
 [2]: "https://nodejs.org/en/" Install nodejs
 [3]: "https://github.com/Sarwak-Dev"  My github for other projects
