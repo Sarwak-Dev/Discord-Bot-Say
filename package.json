@@ -1,0 +1,21 @@
+{
+  "name": "saybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js",
+    "start": "node ./src/index.js",
+    "build": ""
+  },
+  "keywords": [],
+  "author": "Sarwak",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}

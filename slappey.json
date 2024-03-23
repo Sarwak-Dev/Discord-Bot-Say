@@ -1,0 +1,7 @@
+{
+  "name": "saybot",
+  "language": "javascript",
+  "manager": "npm",
+  "token": "----> YOUR TOKEN HERE <----",
+  "prefix": "."
+}
