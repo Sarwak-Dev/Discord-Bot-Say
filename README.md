@@ -21,7 +21,7 @@ node index.js
 # Delete message with id_message
 ```
 ## Usage
-#### his prefix is `.` and in the `src/events/ready` file you can change the status of the bot 
+#### His prefix is `.` and in the `src/events/ready` file you can change the status of the bot 
 
 # If you want to get this bot hosted for free
 #### You can use free hosting at `https://discloudbot.com` is completly free
