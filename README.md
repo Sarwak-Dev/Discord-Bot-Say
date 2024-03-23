@@ -7,7 +7,7 @@
 node index.js
 ```
 ## Commands:
-```bash
+```c
 .say yourtext
 .say [id_channel_to_send_message] yourtext 
 # To fix the line breaks bu, each dot (.) means a line space.
